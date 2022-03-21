@@ -17,7 +17,7 @@ public abstract class Duck {
     }
     
     public void swim(){
-        System.out.println("모든 오리는 물에 뜹니다. 가짜 오리도 뜨죠");
+        System.out.println("모든 오리는 물에 뜹니다.~~ 가짜 오리도 뜨죠");
     }
     
     public abstract void display(); // 추상 메소드
